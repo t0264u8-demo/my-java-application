@@ -34,4 +34,5 @@ public class BadExample {
         // System.out instead of logger
         System.out.println("Done!");
     }
+
 }
